@@ -1,0 +1,12 @@
+{
+  "name": "jbenoit2011/stream",
+  "description": "Stream implementation in PHP",
+  "minimum-stability": "stable",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Julien BENOIT",
+      "email": "jbenoit.jb+composer@gmail.com"
+    }
+  ]
+}
