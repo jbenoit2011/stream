@@ -8,5 +8,8 @@
       "name": "Julien BENOIT",
       "email": "jbenoit.jb+composer@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {"Stream\\": "src/"}
+  }
 }
